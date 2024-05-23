@@ -1,7 +1,7 @@
-Dòng 1 
+Dòng 1 `dev1 sửa code dòng này
 Dòng 2
-Dòng 3 `dev 2 sửa dòng này
+Dòng 3 `dev1 sửa code dòng này`dev 2 sửa dòng này
 Dòng 4 `dev 2 sửa dòng này
 Dòng 5
-Dòng 6 
+Dòng 6 `dev1 sửa code dòng này
 Dòng 7
