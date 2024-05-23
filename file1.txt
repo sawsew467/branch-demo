@@ -4,4 +4,8 @@ Dòng 3 `dev2 sửa code dòng này
 Dòng 4
 Dòng 5
 Dòng 6 `dev1 sửa code dòng này
-Dòng 7 `dev2 sửa code dòng này
+Dòng 7 
+Dòng 8 
+Dòng 9 
+Dòng 10 
+Dòng 11 
